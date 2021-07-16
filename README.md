@@ -1,4 +1,13 @@
 # Team-6
 Grupo 6
-Contributors
-Palaszczuk Martin
+
+
+contributors:
+
+Pablo Rivera
+Martin Palaszczuk
+Ingresar Nombre
+Ingresar Nombre
+Ingresar Nombre
+
+
