@@ -21,3 +21,7 @@ Actividades:
 - [ ] crear N urls con N respuestas distintas dependiendo de la cantidad de miembros del equipo.
 
 - [ ] Tienen que tener un test escrito en el archivo tests.py
+
+- [ ] Crear un modelo Usuario (o user) crear N properties por cada N integrante del equipo.
+
+- [ ] Integrar los cambios en el repositorio.
